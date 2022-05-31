@@ -1,4 +1,4 @@
-# Plantilla de webpack para proyectos web
+# Plantilla de webpack para proyectos web front-end
 
 Plantilla para desarrollar aplicaciones con Javascript con las
 siguientes dependencias instaladas como `devDependencies` mediante el gestor de paquetes de `node` (16.15.0), `npm` (8.5.5):
