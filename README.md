@@ -11,6 +11,7 @@ siguientes dependencias instaladas como `devDependencies` mediante el gestor de 
 - webpack-dev-server
 - Eslint con la siguiente configuración:
 
+![Captura de pantalla de 2022-10-22 11-30-26](https://user-images.githubusercontent.com/49815325/197332678-e26822dd-33ee-4b9c-9ac4-773da24b7a75.png)
 
 Habiendo instalado `node`, para instalar `npm` en un directorio local basta con ejecutar en la terminal:
 
